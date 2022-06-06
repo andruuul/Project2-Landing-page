@@ -1,0 +1,8 @@
+@import url(../video/__iframe/video__iframe.css);
+@import url(../video/__iframe/video__iframe_margin-left.css);
+@import url(../video/__iframes/video__iframes.css);
+
+.video {
+  margin-top: 100px;
+  padding: 0;
+}
