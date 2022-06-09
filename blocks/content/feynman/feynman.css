@@ -36,6 +36,7 @@
   font-weight: normal;
   color: #2F80ED;
   transition: opacity 0.9s ease-in-out;
+  text-decoration: none;
 }
 
 .feynman__link:hover {
