@@ -13,7 +13,7 @@
     display: flex;
     justify-content: space-between;
   }
-  .footer__column_content_copyright {
+  .footer__column-content-copyright {
     color: white;
     display: flex;
     flex-direction: column;
@@ -21,7 +21,7 @@
     flex-basis: 711px;
   }
   
-  .logo_place_footer {
+  .logo-place-footer {
     width: 183px;
     height: 35px;
   }
@@ -33,7 +33,7 @@
     font-weight: normal;
   }
   
-  .footer__column_content_about {
+  .footer__column-content-about {
     color: white;
   }
   .footer__column-heading {
@@ -49,18 +49,18 @@
     padding: 0;
   }
   
-  .footer__column_link {
+  .footer__column-link {
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
     padding: 0;
   }
   
-  .footer__column_content_social {
+  .footer__column-content-social {
     color: white;
   }
   
-  .footer__social_icons {
+  .footer__social-icons {
     width: 16px;
     height: 16px;
     padding-right: 10px;
