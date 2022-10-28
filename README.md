@@ -1,5 +1,7 @@
 # Web Development Project 2
 
+![](https://github.com/andruuul/Project2-Landing-page/blob/main/images/gif/landing-page.gif)
+
 ## What was this project for?
 * This is a project to put into practice some CSS features, such as: *transform*, *transition*, *animation with @keyframes*, *Flexbox* and *iframes*. It only uses html and CSS.
 
